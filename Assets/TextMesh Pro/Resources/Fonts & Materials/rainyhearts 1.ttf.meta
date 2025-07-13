@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aebe91a60eb92bc42a5d5e198846b986
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - rainyhearts
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d21acb080333c554fba043eaab1d57b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
